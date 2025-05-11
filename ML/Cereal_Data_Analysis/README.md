@@ -17,7 +17,6 @@ To analyze the nutritional content of breakfast cereals and classify them into:
 - **Unhealthy**: High sugar, low fiber
 
 ---
----
 
 ## 🧠 Problem Statement
 
