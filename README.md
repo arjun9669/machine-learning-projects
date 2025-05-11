@@ -1,64 +1,52 @@
-# 📉 Customer Churn Prediction
+# 🤖 Machine Learning Projects Portfolio
 
-> A machine learning project to predict customer churn using a Decision Tree Classifier.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+Welcome to my ML projects collection!  
+Each folder in this directory contains a complete end-to-end machine learning project — from data preprocessing and modeling to evaluation and insights.
 
 ---
 
-## 🧠 Problem Statement
+## 📚 Projects Overview
 
-Customer churn is a critical metric for businesses. This project aims to predict whether a customer will churn based on their usage behavior, support interactions, and payment patterns.
-
----
-
-## 📂 Dataset
-
-The dataset is synthetic and includes the following features:
-
-- `Age`, `Gender`, `Tenure`
-- `Usage Frequency`, `Support Calls`, `Payment Delay`
-- `Subscription Type`, `Contract Length`
-- `Total Spend`, `Last Interaction`
-- `Churn` (Target: 0 = Not Churned, 1 = Churned)
-
-📄 Files:
-- `customer_churn.csv` — input dataset
-- `Customer_Churn_Prediction.ipynb` — Jupyter Notebook
+| No. | Project Name                        | Type                    | Techniques Used                                   |
+|-----|-------------------------------------|-------------------------|----------------------------------------------------|
+| 1   | Cereal Data Analysis                | EDA                     | Pandas, Seaborn, GroupBy, Feature Tagging          |
+| 2   | Customer Churn Prediction           | Classification (DT)     | Decision Tree, Accuracy, Confusion Matrix          |
+| 3   | Customer Churn Advanced             | Classification (LogReg) | Logistic Regression, Evaluation Metrics            |
+| 4   | Customer Segmentation (KMeans)      | Clustering              | KMeans, Elbow Method, Cluster Plotting             |
+| 5   | House Price Prediction              | Regression              | Linear & Random Forest, RMSE, MAE, Feature Import. |
+| 6   | Loan Approval Prediction (XGBoost)  | Classification (XGB)    | XGBoost, Label Encoding, ROC-AUC Curve             |
+| 7   | Heart Disease Prediction            | Classification          | LogReg, XGBoost, Decision Tree, ROC-AUC            |
+| 8   | Model Comparison & GridSearch       | Tuning + Comparison     | GridSearchCV, DT, RF, XGB, Model Evaluation         |
 
 ---
 
-## 📊 Model
+## 🛠️ Tools Used
 
-- **Algorithm:** Decision Tree Classifier  
-- **Train-Test Split:** 80-20  
-- **Evaluation Metrics:**
-  - Accuracy
-  - Confusion Matrix
-  - Classification Report
-
----
-
-## ✅ Results
-
-- **Accuracy:** ~75%  
-- 🔍 Correctly classified churned customers with high recall  
-- 🧾 Visualized decision-making with a tree plot
+- **Python** (Pandas, NumPy)
+- **Scikit-learn** (classification, regression, clustering, evaluation)
+- **XGBoost**
+- **Matplotlib & Seaborn** (visualizations)
+- **Label Encoding & Feature Engineering**
+- **GridSearchCV** (hyperparameter tuning)
+- **ROC Curves & Confusion Matrices**
 
 ---
 
-## 📈 Visualizations
+## 📁 How Projects Are Organized
 
-- Decision Tree Diagram
-- Confusion Matrix
-- Classification Metrics Summary
+Each project folder includes:
+- 📘 `.ipynb` file with full analysis  
+- 📄 `.csv` dataset  
+- 📑 `README.md` with project summary and key insights
 
 ---
 
-## 🚀 How to Run
+## 👨‍💻 Author
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arjun9669/machine-learning-projects.git
+**Arjun Kumar**  
+> Aspiring Data Analyst | Python & ML Enthusiast  
+> 🔗 [GitHub](https://github.com/arjun9669) • [Portfolio](https://my-data-story.lovable.app) • [LinkedIn](https://www.linkedin.com/in/arjun-analytics/)
+
+---
+
+📬 *Want to collaborate or give feedback? Let's connect on LinkedIn!*
