@@ -17,6 +17,18 @@ To analyze the nutritional content of breakfast cereals and classify them into:
 - **Unhealthy**: High sugar, low fiber
 
 ---
+---
+
+## 🧠 Problem Statement
+
+Understanding the nutritional value of breakfast cereals is important for making informed dietary choices.  
+This project analyzes a dataset of popular cereals and classifies them as **Healthy**, **Moderate**, or **Unhealthy** based on sugar and fiber content.
+
+It also explores patterns between:
+- **Nutrition values and product ratings**
+- **Manufacturer trends**
+- **Correlations between nutritional factors**
+
 
 ## 📂 Files
 
