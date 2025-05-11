@@ -1,0 +1,21 @@
+CustomerID,Age,Gender,Tenure,Usage Frequency,Support Calls,Payment Delay,Subscription Type,Contract Length,Total Spend,Last Interaction,Churn
+1,25,Male,12,5,1,0,Basic,Short,200,5,0
+2,45,Female,24,3,5,2,Premium,Long,900,20,1
+3,30,Male,6,4,2,1,Basic,Short,300,10,0
+4,50,Female,36,2,6,3,Premium,Long,1200,30,1
+5,35,Male,18,6,0,0,Basic,Short,500,15,0
+6,40,Female,20,4,4,2,Premium,Long,1000,25,1
+7,28,Male,10,5,1,1,Basic,Short,400,10,0
+8,60,Female,40,2,7,4,Premium,Long,1400,35,1
+9,38,Male,22,6,2,2,Basic,Short,600,12,0
+10,33,Female,17,4,3,1,Premium,Long,950,18,1
+11,52,Male,30,3,6,3,Basic,Short,1100,28,1
+12,48,Female,28,2,2,2,Premium,Long,1020,22,0
+13,41,Male,26,4,1,0,Basic,Short,980,19,0
+14,29,Female,8,5,4,1,Premium,Long,350,8,1
+15,36,Male,15,6,3,1,Basic,Short,550,11,0
+16,55,Female,33,2,6,4,Premium,Long,1150,33,1
+17,27,Male,14,4,2,0,Basic,Short,250,7,0
+18,34,Female,13,3,0,0,Premium,Long,450,9,0
+19,43,Male,31,5,5,3,Basic,Short,1000,27,1
+20,31,Female,9,4,3,2,Premium,Long,370,13,0
