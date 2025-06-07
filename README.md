@@ -7,16 +7,19 @@ Each folder in this directory contains a complete end-to-end machine learning pr
 
 ## 📚 Projects Overview
 
-| No. | Project Name                        | Type                    | Techniques Used                                   |
-|-----|-------------------------------------|-------------------------|----------------------------------------------------|
-| 1   | Cereal Data Analysis                | EDA                     | Pandas, Seaborn, GroupBy, Feature Tagging          |
-| 2   | Customer Churn Prediction           | Classification (DT)     | Decision Tree, Accuracy, Confusion Matrix          |
-| 3   | Customer Churn Advanced             | Classification (LogReg) | Logistic Regression, Evaluation Metrics            |
-| 4   | Customer Segmentation (KMeans)      | Clustering              | KMeans, Elbow Method, Cluster Plotting             |
-| 5   | House Price Prediction              | Regression              | Linear & Random Forest, RMSE, MAE, Feature Import. |
-| 6   | Loan Approval Prediction (XGBoost)  | Classification (XGB)    | XGBoost, Label Encoding, ROC-AUC Curve             |
-| 7   | Heart Disease Prediction            | Classification          | LogReg, XGBoost, Decision Tree, ROC-AUC            |
-| 8   | Model Comparison & GridSearch       | Tuning + Comparison     | GridSearchCV, DT, RF, XGB, Model Evaluation         |
+| No. | Project Name                          | Type                    | Techniques Used                                     |
+|-----|---------------------------------------|-------------------------|------------------------------------------------------|
+| 1   | Cereal Data Analysis                  | EDA                     | Pandas, Seaborn, GroupBy, Feature Tagging            |
+| 2   | Customer Churn Prediction             | Classification (DT)     | Decision Tree, Accuracy, Confusion Matrix            |
+| 3   | Customer Churn Advanced               | Classification (LogReg) | Logistic Regression, Evaluation Metrics              |
+| 4   | Customer Segmentation (KMeans)        | Clustering              | KMeans, Elbow Method, Cluster Plotting               |
+| 5   | House Price Prediction                | Regression              | Linear & Random Forest, RMSE, MAE, Feature Import.   |
+| 6   | Loan Approval Prediction (XGBoost)    | Classification (XGB)    | XGBoost, Label Encoding, ROC-AUC Curve               |
+| 7   | Heart Disease Prediction              | Classification          | LogReg, XGBoost, Decision Tree, ROC-AUC              |
+| 8   | Model Comparison & GridSearch         | Tuning + Comparison     | GridSearchCV, DT, RF, XGB, Model Evaluation           |
+| 9   | Mall Customer App Usage Clustering    | Clustering              | KMeans, Silhouette Score, Inertia, Age Segmentation  |
+| 10  | Airbnb Price Prediction               | Regression              | Linear Regression, OHE, R², MAE/MSE, Visualization    |
+| 11  | Lung Cancer Risk Prediction           | Classification (RF)     | RandomForest, Confusion Matrix, Class Report         |
 
 ---
 
