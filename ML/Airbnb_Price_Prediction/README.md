@@ -1,6 +1,10 @@
 # 🏘️ Airbnb Price Prediction
 
-This regression project aims to predict Airbnb rental prices in coastal cities using location, property features, and seasonality.  
+This educational regression project uses a small illustrative coastal-rentals dataset to model the relationship between listing features and nightly prices. It is not a validated live-market pricing tool.
+
+### New reproducible API example
+
+A separate [training + FastAPI service](./service/README.md) includes train/holdout metrics, preprocessing with a sklearn Pipeline, an inference endpoint, Docker instructions, and offline CI tests. It is a demonstration built on this repository's CSV, not an externally deployed service.  
 It uses linear regression to model the relationship between key listing attributes and nightly price.
 
 ---

@@ -1,6 +1,8 @@
 # 🤖 Machine Learning Projects Portfolio
 
-Welcome to my ML projects collection!  
+Welcome to my ML projects collection!
+
+**New runnable project:** [Coastal Airbnb Price Predictor — trainable sklearn pipeline, FastAPI inference, Docker, and CI](./ML/Airbnb_Price_Prediction/service/README.md). This is an educational demonstration with illustrative data, not a production pricing service.  
 This repository collects learning projects and notebooks covering exploratory analysis, supervised learning, clustering and evaluation. These demonstrate ML foundations; notebooks are not production API deployments.
 
 ---
