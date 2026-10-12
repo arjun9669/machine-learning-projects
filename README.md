@@ -56,7 +56,7 @@ A model trained in a notebook is not by itself evidence of a deployed, monitored
 ## 👨‍💻 Author
 
 **Arjun Kumar**  
-> Aspiring Data Analyst | Python & ML Enthusiast  
+> AI Engineer | Python & ML Enthusiast  
 > 🔗 [GitHub](https://github.com/arjun9669) • [Portfolio](https://my-data-story.lovable.app) • [LinkedIn](https://www.linkedin.com/in/arjun-analytics/)
 
 ---
